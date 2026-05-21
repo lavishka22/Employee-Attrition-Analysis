@@ -37,7 +37,7 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-overview.png)
+![Dashboard Preview](https://github.com/lavishka22/Employee-Attrition-Analysis/blob/main/DashBoard%20Overview.png)
 
 ---
 
